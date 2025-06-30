@@ -24,5 +24,3 @@ LibraryApp-Java/
 ├── Textbook.java          # Subclass for textbooks
 ├── Novel.java             # Subclass for novels
 └── README.md              # Project documentation
-
-A simple Java-based console Library Management System using OOP concepts like inheritance, abstraction, and polymorphism. Easily search, borrow, return, and display books.
